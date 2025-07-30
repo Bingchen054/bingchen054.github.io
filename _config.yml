@@ -3,7 +3,7 @@ description: My academic homepage and research projects
 baseurl: ""
 url: "https://bingchen054.github.io"
 
-remote_theme: Jasper0122/academic-homepage
+#remote_theme: Jasper0122/academic-homepage
 
 markdown: kramdown
 plugins:
