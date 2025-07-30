@@ -56,7 +56,7 @@ short_bio: >-
     If you are interested in collaboration or would like to discuss potential projects, please feel free to reach out via email or WeChat.
   </p>
 
-portrait_url: "/Users/libingchen/Desktop/bingchen054.github.io/assets/images/photos/avatar.jpg"
+portrait_url: "/assets/images/photos/avatar.jpg"
 portrait_caption: >-
   Coffee x Milk = Energy
 
@@ -66,7 +66,7 @@ education:
   position: M.S. in Spatial Data Science
   date: Aug. 2023 - Dec. 2025
 - name: Southwestern Forestry University
-  logo: /Users/libingchen/Desktop/bingchen054.github.io/assets/images/badges/SWFU.png
+  logo: /assets/images/badges/SWFU.png
   position: B.A. in Economics
   date: Sep. 2019 - Jul. 2023
 
